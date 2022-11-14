@@ -1,5 +1,5 @@
 #!/bin/bash
-# Use this script to install tomcat in rehat servers
+# Use this script to install tomcat in redhat servers
 echo delete the failed version of tomcat
 sudo rm -rf /opt/tomcat9
 echo assign a hostname to your server 
