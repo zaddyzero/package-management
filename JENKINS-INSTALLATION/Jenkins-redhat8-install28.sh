@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Toba
+# Author: Prof Legha
 # date: nov/11/2022
 # Installing Jenkins on RHEL 7/8, CentOS 7/8 or Amazon Linux OS
 # You can execute this script as user-data when launching your EC2 VM.
